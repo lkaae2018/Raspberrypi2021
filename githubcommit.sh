@@ -2,8 +2,8 @@
 
 #cd linuxopg
 git add *
-git config --global user.email "lak@djhhadsten.dk"
-git config --global user.name "lkaae2018"
+git config --global user.email "*********"
+git config --global user.name "**************"
 echo Navn til commiten?
 read commit
 git commit -m $commit
